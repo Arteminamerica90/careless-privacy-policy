@@ -72,27 +72,17 @@ We collect personal information that you voluntarily provide to us when you expr
 
 Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
 
-names
-
-age
-
-weight
-
-height
-
-Sensitive Information. When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
-
-health data
-
-data about a person's sex life or sexual orientation
-
-Payment Data. We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by Apple. You may find their privacy notice link(s) here: https://www.apple.com/legal/privacy/en-ww/.
-
-Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
-
-Geolocation Information. We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application(s), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
-
-Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's calendar, camera, contacts, reminders, sensors, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+1. names
+2. age
+3. weight
+4. height
+5. Sensitive Information. When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
+6. health data
+7. data about a person's sex life or sexual orientation
+8. Payment Data. We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by Apple. You may find their privacy notice link(s) here: https://www.apple.com/legal/privacy/en-ww/.
+9. Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+10. Geolocation Information. We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application(s), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
+11. Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's calendar, camera, contacts, reminders, sensors, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
 Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
