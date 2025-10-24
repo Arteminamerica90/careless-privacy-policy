@@ -240,29 +240,29 @@ The table below shows the categories of personal information we have collected i
 
 Category	Examples	Collected
 
-A. Identifiers	Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name	YES
+A. Identifiers	Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name - YES
 
-B. Personal information as defined in the California Customer Records statute	Name, contact information, education, employment, employment history, and financial information	YES
+B. Personal information as defined in the California Customer Records statute	Name, contact information, education, employment, employment history, and financial information - YES
 
-C. Protected classification characteristics under state or federal law	Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data	YES
+C. Protected classification characteristics under state or federal law	Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data	- YES
 
-D. Commercial information	Transaction information, purchase history, financial details, and payment information	YES
+D. Commercial information	Transaction information, purchase history, financial details, and payment information - YES
 
-E. Biometric information	Fingerprints and voiceprints	NO
+E. Biometric information	Fingerprints and voiceprints - NO
 
-F. Internet or other similar network activity	Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements	YES
+F. Internet or other similar network activity	Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements - YES
 
-G. Geolocation data	Device location	YES
+G. Geolocation data	Device location - YES
 
-H. Audio, electronic, sensory, or similar information	Images and audio, video or call recordings created in connection with our business activities	YES
+H. Audio, electronic, sensory, or similar information	Images and audio, video or call recordings created in connection with our business activities - YES
 
-I. Professional or employment-related information	Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us	NO
+I. Professional or employment-related information	Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us - NO
 
-J. Education Information	Student records and directory information	NO
+J. Education Information	Student records and directory information - NO
 
-K. Inferences drawn from collected personal information	Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics	YES
+K. Inferences drawn from collected personal information	Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics - YES
 
-L. Sensitive personal information	Health data, precise geolocation and sex life or sexual orientation	YES
+L. Sensitive personal information	Health data, precise geolocation and sex life or sexual orientation - YES
 
 We will only collect sensitive personal information, as defined by applicable privacy laws or the purposes allowed by law or with your consent. Sensitive personal information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You may have the right to limit the use or disclosure of your sensitive personal information.
 
